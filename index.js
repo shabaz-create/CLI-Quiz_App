@@ -46,7 +46,7 @@ console.log(a===b)
 //main logic to find the correct answer or display the correct one
 function answer(userAnswer,correctAnswer){
   if(!"abcd".includes(userAnswer)){
-    console.log(kuler("\nPlease enter a valid option","#E31A1A"));
+    console.log(kuler("\nPlease enter a valid option next time, you lost a chance this time","#E31A1A"));
     console.log("___________________");
   }else{
   if(userAnswer===correctAnswer){
