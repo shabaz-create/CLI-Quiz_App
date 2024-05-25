@@ -1,5 +1,5 @@
 # CLI-Quiz_App
-This a a CLI quizz app created by using JS
+This a a CLI quizz app created using JS
 
 This  cli app requires readline-sync & kuler as prerequisite
 
